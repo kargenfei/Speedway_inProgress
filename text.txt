@@ -73,6 +73,21 @@ https://i.ytimg.com/vi/ZfFMOYr37S0/sddefault.jpg;
 https://media.ed.edmunds-media.com/for-sale/28-19uub1f58ka008897/img-1-600x400.jpg;
 details: Comes with Technology Package, No accidents;
 
+make: Toyota;
+model: Corolla;
+year: 2019;
+value: 20000;
+price: 25471;
+mileage: 40000;
+quantity: 1;
+images:
+https://upload.wikimedia.org/wikipedia/commons/b/b2/2010_Toyota_Corolla_CE%2C_Front_Left.jpg;
+details: Excellent MPG and fuel economy for the price;
+
+
+
+
+
 
 
 
