@@ -1,0 +1,78 @@
+
+make: Ford;
+model: F150;
+year: 2020;
+value: 40000;
+price: 44950;
+mileage: 20000;
+quantity: 3;
+images: 
+https://upload.wikimedia.org/wikipedia/commons/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg;
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_Ford_F-150_Crew_Cab_front_5.26.18.jpg/1200px-2018_Ford_F-150_Crew_Cab_front_5.26.18.jpg;
+https://upload.wikimedia.org/wikipedia/commons/e/e7/2018_Ford_F-150_Crew_Cab_rear_5.26.18.jpg
+details: Used car;
+
+make: Hyundai;
+model: Elantra ECO;
+year: 2018;
+value: 16000;
+price: 15500;
+mileage: 82000;
+quantity: 5;
+images: 
+https://upload.wikimedia.org/wikipedia/commons/6/6f/2011_Hyundai_Elantra_Limited_--_12-08-2010.jpg;
+https://upload.wikimedia.org/wikipedia/commons/1/1f/2011_Hyundai_Elantra_Limited_--_01-04-2011.jpg;
+
+details: Two previous owners, Fair deal;
+
+make: Nissan;
+model: Altima 2.5 SV;
+year: 2021;
+value: 29000;
+price: 35000;
+mileage: 105;
+quantity: 1;
+images: 
+https://upload.wikimedia.org/wikipedia/commons/d/db/2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg
+
+details: New car from the lot comes with the latest features;
+
+make: Chevrolet;
+model: Corvette Stingray;
+year: 2021;
+value: 100000;
+price: 111000;
+mileage: 363;
+quantity: 1;
+images: 
+https://cdn.motor1.com/images/mgl/2R9Wk/s1/chevrolet-corvette-c8-rapid-blue.jpg;
+https://wheelfront.com/wp-content/uploads/formidable/8/rapid-blue-c8-corvette-stingray-with-vossen-hf5-wheels-1.jpg;
+details: Rapid Blue profile, 1LT tuning get started with our 5 year warranty plan;
+
+make: Tesla;
+model: Model 3;
+year: 2019;
+value: 50000;
+price: 47500;
+mileage: 16395;
+quantity: 1;
+images: 
+https://cdn.motor1.com/images/mgl/pPM9P/s6/tesla-model-3-white-2.jpg;
+https://tesla-cdn.thron.com/delivery/public/image/tesla/acf2a27a-c360-4e77-9e81-f91ec4dd5eb1/bvlatuR/std/2452x1336/lhd-interior-carousel-2-slide-4-desktop-1;
+details: Fully electric powered.;
+
+make: Acura;
+model: TLX;
+year: 2019;
+value: 35000;
+price: 32000;
+mileage: 40000;
+quantity: 1;
+images: 
+https://i.ytimg.com/vi/ZfFMOYr37S0/sddefault.jpg;
+https://media.ed.edmunds-media.com/for-sale/28-19uub1f58ka008897/img-1-600x400.jpg;
+details: Comes with Technology Package, No accidents;
+
+
+
+
